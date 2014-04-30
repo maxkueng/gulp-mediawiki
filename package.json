@@ -1,7 +1,7 @@
 {
   "name": "gulp-mediawiki",
-  "version": "0.0.1",
-  "description": "Upload files to a MediaWiki instance",
+  "version": "0.0.2",
+  "description": "Upload files as pages to a MediaWiki instance",
   "keywords": [
     "mediawiki",
     "wiki",
