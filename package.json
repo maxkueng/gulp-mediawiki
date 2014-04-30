@@ -21,7 +21,7 @@
     }
   ],
   "dependencies": {
-    "whenthen": "0.0.1",
+    "whenthen": "0.0.2",
     "event-stream": "~3.1.4",
     "gulp-util": "~2.2.14",
     "nodemw": "~0.3.14"
